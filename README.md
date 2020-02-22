@@ -1,3 +1,6 @@
+## Integration testing
+Check test at `src/__test__/fullFlow.test.tsx`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

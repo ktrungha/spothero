@@ -1,0 +1,4 @@
+{
+  "bookIt": "${price} | Book it",
+  "purchase": "Purchase for ${price}"
+}
